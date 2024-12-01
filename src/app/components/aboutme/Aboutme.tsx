@@ -15,16 +15,16 @@ const Aboutme=()=>{
             <div className="text-container flex-1 pl-5">
               <h6 className="text-4xl font-bold text-black">About Me</h6>
               <h1 className="text-4xl my-10 text-black">
-                Welcome to My<span className="text-yellow-400 font-bold"> Protfolio </span>.
+                Welcome to My<span className="text-yellow-400 font-bold"> Protfolio </span>
               </h1>
               <p className="mb-4 text-gray-600">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                diam amet diam et eos. Clita erat ipsum et lorem et sit.
+                Tempor erat elitr rebum at clita Diam dolor diam ipsum sit Aliqu
+                diam amet diam et eos Clita erat ipsum et lorem et sit
               </p>
               <p className="mb-4 text-gray-600">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-                lorem sit clita duo justo magna dolore erat amet.
+                Tempor erat elitr rebum at clita Diam dolor diam ipsum sit Aliqu
+                diam amet diam et eos Clita erat ipsum et lorem et sit, sed stet
+                lorem sit clita duo justo magna dolore erat amet
               </p>
               <a
                 className="inline-block px-5 py-3 bg-yellow-400 text-white rounded hover:bg-blue-700"

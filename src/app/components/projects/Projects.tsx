@@ -18,7 +18,7 @@ const Projects= () => {
                         <h3 className="text-xl font-semibold mt-4 text-black">Project 1</h3>
                         <p className="mt-2 text-gray-600">One-Side Form Layout with Icons</p>
                         <p className="mt-2 text-gray-600">
-                            "Designed a sleek footer layout featuring two cards and a prominent photo..."
+                            Designed a sleek footer layout featuring two cards and a prominent photo
                         </p>
                         <a href="#" className="mt-4 inline-block px-4 py-2 bg-yellow-400 text-white rounded hover:bg-gray-800">View Project</a>
                     </div>
@@ -29,7 +29,7 @@ const Projects= () => {
                         <h3 className="text-xl font-semibold mt-4  text-black">Project 2</h3>
                         <p className="mt-2 text-gray-600">One-Side Form Layout with Icons</p>
                         <p className="mt-2 text-gray-600">
-                            "Designed a sleek footer layout featuring two cards and a prominent photo..."
+                            Designed a sleek footer layout featuring two cards and a prominent photo
                         </p>
                         <a href="#" className="mt-4 inline-block px-4 py-2 bg-yellow-400 text-white rounded hover:bg-gray-800">View Project</a>
                     </div>
@@ -40,7 +40,7 @@ const Projects= () => {
                         <h3 className="text-xl font-semibold mt-4 text-black">Project 3</h3>
                         <p className="mt-2 text-gray-600">One-Side Form Layout with Icons</p>
                         <p className="mt-2 text-gray-600">
-                            "Designed a sleek footer layout featuring two cards and a prominent photo..."
+                            Designed a sleek footer layout featuring two cards and a prominent photo
                         </p>
                         <a href="#" className="mt-4 inline-block px-4 py-2 bg-yellow-400 text-white rounded hover:bg-gray-800">View Project</a>
                     </div>
@@ -51,7 +51,7 @@ const Projects= () => {
                         <h3 className="text-xl font-semibold mt-4 text-black">Project 4</h3>
                         <p className="mt-2 text-gray-600">One-Side Form Layout with Icons</p>
                         <p className="mt-2 text-gray-600">
-                            "Designed a sleek footer layout featuring two cards and a prominent photo..."
+                            Designed a sleek footer layout featuring two cards and a prominent photo
                         </p>
                         <a href="#" className="mt-4 inline-block px-4 py-2 bg-yellow-400 text-white rounded hover:bg-gray-800">View Project</a>
                     </div>
@@ -62,7 +62,7 @@ const Projects= () => {
                         <h3 className="text-xl font-semibold mt-4 text-black">Project 5</h3>
                         <p className="mt-2 text-gray-600">One-Side Form Layout with Icons</p>
                         <p className="mt-2 text-gray-600">
-                            "Designed a sleek footer layout featuring two cards and a prominent photo..."
+                            Designed a sleek footer layout featuring two cards and a prominent photo
                         </p>
                         <a href="#" className="mt-4 inline-block px-4 py-2 bg-yellow-400 text-white rounded hover:bg-gray-800">View Project</a>
                     </div>
